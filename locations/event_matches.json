@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Event Matches",
+    "short_name": "Events",
+    "chest_unopened_img": "images/chests/event_uncollected.png",
+    "chest_opened_img": "images/chests/event_collected.png",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "Event Match 1-10",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/event_uncollected.png",
+        "chest_opened_img": "images/chests/event_collected.png",
+        "sections": [
+          {
+            "name": "Trouble King",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Mario"]
+          },
+          {
+            "name": "Lord of the Jungle",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Donkey Kong"]
+          },
+          {
+            "name": "Bomb-fest",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Dino-wrangling",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Spare Change",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Ness"]
+          },
+          {
+            "name": "Kirbys on Parade",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Pokémon Battle",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Hot Date on Brinstar",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Hide'n' Sheik",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "All-Star Match 1",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event_matches",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Event Match 11-20",
+        "access_rules": ["Progressive Event Pack"],
+        "chest_unopened_img": "images/chests/event_uncollected.png",
+        "chest_opened_img": "images/chests/event_collected.png",
+        "sections": [
+          {
+            "name": "King of the Mountain",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Seconds, Anyone?",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Yoshi's Egg",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Yoshi"]
+          },
+          {
+            "name": "Trophy Tussle 1",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Girl Power",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Kirby's Air-raid",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Kirby"]
+          },
+          {
+            "name": "Bounty Hunters",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Samus"]
+          },
+          {
+            "name": "Link's Adventure",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Link"]
+          },
+          {
+            "name": "Peach's Peril",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Mario"]
+          },
+          {
+            "name": "All-Star Match 2",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event_matches",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Event Match 21-30",
+        "access_rules": ["Progressive Event Pack", "Progressive Event Pack"],
+        "chest_unopened_img": "images/chests/event_uncollected.png",
+        "chest_opened_img": "images/chests/event_collected.png",
+        "sections": [
+          {
+            "name": "Ice Breaker",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Super Mario 128",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Slippy's Invention",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "The Yoshi Herd",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Gargantuans",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Bowser"]
+          },
+          {
+            "name": "Trophy Tussle 2",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Cold Armor",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Samus"]
+          },
+          {
+            "name": "Puffballs Unite!",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Triforce Gathering",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Link"]
+          },
+          {
+            "name": "All-Star Match 3",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event_matches",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Event Match 31-40",
+        "access_rules": ["Progressive Event Pack", "Progressive Event Pack", "Progressive Event Pack"],
+        "chest_unopened_img": "images/chests/event_uncollected.png",
+        "chest_opened_img": "images/chests/event_collected.png",
+        "sections": [
+          {
+            "name": "Mario Bros. Madness",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Target Acquired",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Falco"]
+          },
+          {
+            "name": "Lethal Marathon",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Captain Falcon"]
+          },
+          {
+            "name": "Seven Years",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Young Link"]
+          },
+          {
+            "name": "Time for a Checkup",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Luigi"]
+          },
+          {
+            "name": "Space Travelers",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Ness"]
+          },
+          {
+            "name": "Legendary Pokémon",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Super Mario Bros. 2",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Jigglypuff Live!",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Jigglypuff"]
+          },
+          {
+            "name": "All-Star Match 4",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event_matches",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Event Match 41-51",
+        "access_rules": ["Progressive Event Pack", "Progressive Event Pack", "Progressive Event Pack", "Progressive Event Pack"],
+        "chest_unopened_img": "images/chests/event_uncollected.png",
+        "chest_opened_img": "images/chests/event_collected.png",
+        "sections": [
+          {
+            "name": "En Garde!",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Marth"]
+          },
+          {
+            "name": "Trouble King 2",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Luigi"]
+          },
+          {
+            "name": "Birds of Prey",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Fox"]
+          },
+          {
+            "name": "Mewtwo Strikes!",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Game & Watch Forever!",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png",
+            "access_rules": ["Mr. Game & Watch"]
+          },
+          {
+            "name": "Fire Emblem Pride",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Trophy Tussle 3",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Pikachu and Pichu",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "All-Star Match Deluxe",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "Final Destination Match",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          },
+          {
+            "name": "The Showdown",
+            "chest_unopened_img": "images/chests/event_uncollected.png",
+            "chest_opened_img": "images/chests/event_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "event_matches",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  }
+]

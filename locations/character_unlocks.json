@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Character Unlocks",
+    "short_name": "Characters",
+    "chest_unopened_img": "images/chests/character_uncollected.png",
+    "chest_opened_img": "images/chests/character_collected.png",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "Secret Character Unlock Matches",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/character_uncollected.png",
+        "chest_opened_img": "images/chests/character_collected.png",
+        "sections": [
+          {
+            "name": "Jigglypuff Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png"
+          },
+          {
+            "name": "Dr. Mario Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png",
+            "access_rules": ["Mario"]
+          },
+          {
+            "name": "Pichu Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png"
+          },
+          {
+            "name": "Falco Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png",
+            "access_rules": ["Multi-Man Melee"]
+          },
+          {
+            "name": "Marth Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png",
+            "access_rules": ["Mario", "Donkey Kong", "Bowser", "Peach", "Captain Falcon", "Yoshi", "Fox", "Ness", "Ice Climbers", "Kirby", "Samus", "Link", "Pikachu", "Zelda"]
+          },
+          {
+            "name": "Young Link Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png",
+            "access_rules": ["group_unique_characters_10"]
+          },
+          {
+            "name": "Ganondorf Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png",
+            "access_rules": ["Link"]
+          },
+          {
+            "name": "Mewtwo Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png"
+          },
+          {
+            "name": "Luigi Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png",
+            "access_rules": ["Adventure Mode"]
+          },
+          {
+            "name": "Roy Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png",
+            "access_rules": ["Marth"]
+          },
+          {
+            "name": "Game & Watch Unlock Match",
+            "chest_unopened_img": "images/chests/character_uncollected.png",
+            "chest_opened_img": "images/chests/character_collected.png",
+            "access_rules": ["Dr. Mario", "Mario", "Luigi", "Bowser", "Peach", "Yoshi", "Donkey Kong", "Captain Falcon", "Ganondorf", "Falco", "Fox", "Ness", "Ice Climbers", "Kirby", "Samus", "Zelda", "Link", "Young Link", "Pichu", "Pikachu", "Jigglypuff", "Mewtwo", "Marth", "Roy"]
+          }
+        ],
+		"map_locations": [
+		  {
+			"map": "character_unlocks",
+			"x": 300,
+			"y": 50
+          }
+        ]
+      }
+    ]
+  }
+]

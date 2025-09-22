@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Single Player Modes",
+    "short_name": "1P Modes",
+    "chest_unopened_img": "images/chests/mode_uncollected.png",
+    "chest_opened_img": "images/chests/mode_collected.png",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "Adventure Mode",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/mode_uncollected.png",
+        "chest_opened_img": "images/chests/mode_collected.png",
+        "sections": [
+          {
+            "name": "Sub 18:20 Clear",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "Hard-Continueless Clear",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "Escape Brinstar",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "All Character Trophies",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "Giga Bowser Continueless",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "single_player",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "All-Star Mode",
+        "access_rules": ["all_star_mode"],
+        "chest_unopened_img": "images/chests/mode_uncollected.png",
+        "chest_opened_img": "images/chests/mode_collected.png",
+        "sections": [
+          {
+            "name": "Clear",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "Continueless Clear",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "Hard Clear",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "All Character Trophies",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "single_player",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Classic Mode",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/mode_uncollected.png",
+        "chest_opened_img": "images/chests/mode_collected.png",
+        "sections": [
+          {
+            "name": "5 Minute Clear",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "Hard-Continueless Clear",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "All Character Trophies",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "Game & Watch Clear",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "single_player",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Multi Man Melee",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/mode_uncollected.png",
+        "chest_opened_img": "images/chests/mode_collected.png",
+        "sections": [
+          {
+            "name": "15 Minute Melee Clear",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "100 Man Melee Sub 4 Minutes",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "Cruel Melee 5 KO's",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "Endless Melee 100 KO's",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "single_player",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Training Mode",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/mode_uncollected.png",
+        "chest_opened_img": "images/chests/mode_collected.png",
+        "sections": [
+          {
+            "name": "125 Combined Combos",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png",
+            "access_rules": ["Kirby", "Fox", "Pichu", "Pikachu", "Zelda", "Bowser"]
+          },
+          {
+            "name": "10-Hit Combo",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png",
+            "access_rules": ["Bowser"]
+          },
+          {
+            "name": "20-Hit Combo",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png",
+            "access_rules": ["Bowser"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "single_player",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Home-Run Contest",
+        "access_rules": ["Home-Run Contest"],
+        "chest_unopened_img": "images/chests/mode_uncollected.png",
+        "chest_opened_img": "images/chests/mode_collected.png",
+        "sections": [
+          {
+            "name": "16,404 Ft. Combined",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png",
+            "access_rules": ["group_unique_characters_16"]
+          },
+          {
+            "name": "984 Ft.",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png"
+          },
+          {
+            "name": "1,312 Ft.",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png",
+            "access_rules": ["Dr. Mario"]
+          },
+          {
+            "name": "1,476 Ft.",
+            "chest_unopened_img": "images/chests/mode_uncollected.png",
+            "chest_opened_img": "images/chests/mode_collected.png",
+            "access_rules": ["Ganondorf"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "single_player",
+            "x": 300,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  }
+]

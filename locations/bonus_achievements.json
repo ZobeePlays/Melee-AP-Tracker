@@ -1,0 +1,1206 @@
+[
+  {
+    "name": "Bonus Achievements",
+    "short_name": "Bonuses",
+    "chest_unopened_img": "images/chests/achievement_uncollected.png",
+    "chest_opened_img": "images/chests/achievement_collected.png",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "Combat Bonuses",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/achievement_uncollected.png",
+        "chest_opened_img": "images/chests/achievement_collected.png",
+        "sections": [
+          {
+            "name": "Dedicated Specialist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "One-Two Punch",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "First Strike",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "150% Damage",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "200% Damage",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "250% Damage",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "300% Damage",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "350% Damage",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Berserker",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Smash King",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Smash Maniac",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Smash-less",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Specialist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Full Power",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Heavy Damage",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Sniper",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Brawler",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Precise Aim",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Pummeler",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Fists of Fury",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Opportunist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Spectator",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "KO Artist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "KO Master",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Offensive Artist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Offensive Master",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Cuddly Bear",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Punching Bag",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Stale Moves",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Blind Eye",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Crowd Favorite",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Master of Suspense",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Lost in Space",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Lost Luggage",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Bully",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Coward",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "In the Fray",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Friendly Foe",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Center Stage",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Pacifist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Moment of Silence",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Impervious",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Immortal",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Switzerland",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Predator",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Solar Being",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Stalker",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "bonus_achievements",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Movement and Positioning Bonuses",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/achievement_uncollected.png",
+        "chest_opened_img": "images/chests/achievement_collected.png",
+        "sections": [
+          {
+            "name": "Exceptional Aim",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Perfect Aim",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "All Ground",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "All Aerial",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Bird of Prey",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Combo King",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Juggler",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Backstabber",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Sweeper",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Clean Sweep",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Meteor Smash",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Meteor Clear",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Aerialist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Acrobat",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Cement Shoes",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Head Banger",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Elbow Room",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Eagle",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Compass Tosser",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Throw Down",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Stiff Knees",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Run, Don't Walk",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Ambler",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "No Hurry",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Marathon Man",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Rock Steady",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Pratfaller",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Face Planter",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Twinkle Toes",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Floor Diver",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "No R 4 U",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Floored",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Life on the Edge",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Poser",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Poser Power",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Instant Poser",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Button Holder",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Shield Stupidity",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Shield Saver",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Skid Master",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Rock Climber",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Edge Hog",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Cliffhanger",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Shattered Shield",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Statue",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Never Look Back",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "bonus_achievements",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "KO Type Bonuses",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/achievement_uncollected.png",
+        "chest_opened_img": "images/chests/achievement_collected.png",
+        "sections": [
+          {
+            "name": "Sacrificial KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Avenger KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Double KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Triple KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Dead-Weight KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Kiss-the-Floor KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Poser KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Cheap KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Bank-Shot KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Star KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Wimpy KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Timely KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Special KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Hangman's KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "KO 64",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Bubble-Blast KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Bull's-eye KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Carrier KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Assisted KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Rocket KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Tiny KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Invisible KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Giant KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Metal KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Freezie KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Flipper KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Invincible KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Capsule KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Warp-Star KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Bunny-hood Blast",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Paratroopa KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "ReDead KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Like Like KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Octorok KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Topi KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Polar Bear KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Shy Guy KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Pokémon KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Goomba KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Koopa KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "bonus_achievements",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Item-Related Bonuses",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/achievement_uncollected.png",
+        "chest_opened_img": "images/chests/achievement_collected.png",
+        "sections": [
+          {
+            "name": "Item Hog",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Item Collector",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Item-less",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Item Specialist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Triple Items",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Lucky Threes",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Jackpot",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Pitcher",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Butterfingers",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "All Thumbs",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Weight Lifter",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Item Catcher",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Reciprocator",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Item Self-Destruct",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Item Chucker",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Item Smasher",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Beam Swordsman",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Home-Run King",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Laser Marksman",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Flame Thrower",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Headless Hammer",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Super Spy",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Bob-omb's Away",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Bob-omb Squad",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Mr. Saturn Fan",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Mrs. Saturn",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Saturn Siblings",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Saturn Ringer",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Minimalist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Materialist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "bonus_achievements",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Mode-Specific Bonuses",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/achievement_uncollected.png",
+        "chest_opened_img": "images/chests/achievement_collected.png",
+        "sections": [
+          {
+            "name": "Classic Clear",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Adventure Clear",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "All-Star Clear",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Giga Bowser KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Crazy Hand KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Luigi KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Giant Kirby KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Metal Bros. KO",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Collector",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Target Master",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Hobbyist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Link Master",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Continuation",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Speed Demon",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Melee Master",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Very Hard Clear",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "No-Miss Clear",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Half-Minute Man",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Lucky Number Seven",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Last Second",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Environmental Hazard",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Angelic",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Magnified Finish",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Fighter Stance",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Mystic",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Shooting Star",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Foresight",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "First to Fall",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Cliff Diver",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Quitter",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Shameful Fall",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "World Traveler",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Ground Pounded",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Vegetarian",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Heartthrob",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Invincible Finish",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Gardener Finish",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Flower Finish",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Super Scoper",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Screwed Up",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Mycologist",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Mario Maniac",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Connoisseur",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Gourmet",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Battering Ram",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Straight Shooter",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Wimp",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Shape-Shifter",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Chuck Wagon",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Parasol Finish",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Last Place",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Wire to Wire",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Whipping Boy",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Frequent Faller",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "First Place",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Peaceful Warrior",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Down, But Not Out",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Merciful Master",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Fall Guy",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Self-Destructor",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Master of Disaster",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "bonus_achievements",
+            "x": 250,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  }
+]

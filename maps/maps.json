@@ -1,0 +1,50 @@
+﻿[
+    {
+        "name": "event_matches",
+        "location_size": 25,
+        "location_border_thickness": 3,
+        "img": "images/maps/event_matches.png"
+    },
+    {
+        "name": "single_player",
+        "location_size": 25,
+        "location_border_thickness": 3,
+        "img": "images/maps/single_player.png"
+    },
+    {
+        "name": "target_test",
+        "location_size": 25,
+        "location_border_thickness": 3,
+        "img": "images/maps/target_test.png"
+    },
+    {
+        "name": "character_trophies",
+        "location_size": 25,
+        "location_border_thickness": 3,
+        "img": "images/maps/character_trophies.png"
+    },
+    {
+        "name": "character_unlocks",
+        "location_size": 25,
+        "location_border_thickness": 3,
+        "img": "images/maps/character_unlocks.png"
+    },
+    {
+        "name": "trophy_collection",
+        "location_size": 25,
+        "location_border_thickness": 3,
+        "img": "images/maps/trophy_collection.png"
+    },
+    {
+        "name": "bonus_achievements",
+        "location_size": 20,
+        "location_border_thickness": 3,
+        "img": "images/maps/bonus_achievements.png"
+    },
+    {
+        "name": "general_achievements",
+        "location_size": 25,
+        "location_border_thickness": 3,
+        "img": "images/maps/general_achievements.png"
+    }
+]

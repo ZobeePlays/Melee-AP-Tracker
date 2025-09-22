@@ -1,0 +1,202 @@
+[
+  {
+    "name": "General Game Achievements",
+    "short_name": "Achievements",
+    "chest_unopened_img": "images/chests/achievement_uncollected.png",
+    "chest_opened_img": "images/chests/achievement_collected.png",
+    "access_rules": [],
+    "children": [
+      {
+        "name": "VS Mode Milestones",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/achievement_uncollected.png",
+        "chest_opened_img": "images/chests/achievement_collected.png",
+        "sections": [
+          {
+            "name": "10 VS. Matches",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "50 VS. Matches",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "100 VS. Matches",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "150 VS. Matches",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "200 VS. Matches",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "1000 VS. Matches",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "100 Coin Battles",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "general_achievements",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "General Game Goals",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/achievement_uncollected.png",
+        "chest_opened_img": "images/chests/achievement_collected.png",
+        "sections": [
+          {
+            "name": "All Stages + Secret Characters",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["group_unique_stages_11", "Jigglypuff", "Dr. Mario", "Pichu", "Falco", "Marth", "Young Link", "Ganondorf", "Mewtwo", "Luigi", "Roy", "Mr. Game & Watch"]
+          },
+          {
+            "name": "Unlock Luigi, Jigglypuff, Mewtwo, Mr. Game & Watch, and Marth",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["Luigi", "Jigglypuff", "Mewtwo", "Mr. Game & Watch", "Marth"]
+          },
+          {
+            "name": "Unlock Roy, Pichu, Ganondorf, Dr. Mario, Young Link, and Falco",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["Roy", "Pichu", "Ganondorf", "Dr. Mario", "Young Link", "Falco"]
+          },
+          {
+            "name": "Unlock All Regular Stages",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["Mushroom Kingdom II", "Poké Floats", "Big Blue", "Flat Zone", "Fourside", "Brinstar Depths"]
+          },
+          {
+            "name": "All Bonuses",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["Adventure Mode", "All-Star Mode", "Classic Mode", "Luigi"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "general_achievements",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Gameplay Milestones",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/achievement_uncollected.png",
+        "chest_opened_img": "images/chests/achievement_collected.png",
+        "sections": [
+          {
+            "name": "100 Coins",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "10 KO's",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "50 KO's",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "Walk 100 Meters",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "See Mew",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          },
+          {
+            "name": "See Celebi",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "general_achievements",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Special Trophy Requirements",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/achievement_uncollected.png",
+        "chest_opened_img": "images/chests/achievement_collected.png",
+        "sections": [
+          {
+            "name": "Have Birdo Trophy",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["Birdo (Trophy)"]
+          },
+          {
+            "name": "Have Kraid Trophy",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["Kraid (Trophy)"]
+          },
+          {
+            "name": "Have Falcon Flyer Trophy",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["Falcon Flyer (Trophy)"]
+          },
+          {
+            "name": "Have UFO Trophy",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["UFO (Trophy)"]
+          },
+          {
+            "name": "Have Sudowoodo Trophy",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["Sudowoodo (Trophy)"]
+          },
+          {
+            "name": "Pikmin Memory Card Data",
+            "chest_unopened_img": "images/chests/achievement_uncollected.png",
+            "chest_opened_img": "images/chests/achievement_collected.png",
+            "access_rules": ["Pikmin Savefile"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "general_achievements",
+            "x": 200,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  }
+]

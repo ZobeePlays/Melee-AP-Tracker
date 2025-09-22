@@ -1,0 +1,22 @@
+{
+    "name": "Super Smash Bros Melee Archipelago Tracker",
+    "game_name": "Super Smash Bros Melee",
+    "platform": "Nintendo 64",
+    "package_version": "1.0",
+    "package_uid": "Super_Smash_Bros_Melee_Archipelago",
+    "author": "PixelShake92",
+    "variants": {
+        "itemrando": {
+            "display_name": "Archipelago Randomizer",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "items": "items",
+    "locations": "locations",
+    "maps": "maps",
+    "logic": "scripts/logic.lua",
+    "layout": "layouts",
+    "autotracking": "scripts/autotracking"
+}

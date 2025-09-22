@@ -1,0 +1,140 @@
+{
+    "tracker_default": {
+        "type": "container",
+        "background": "#171F2B",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "width": 190,
+                    "min_height": 400,
+                    "content": {
+                        "type": "group",
+                        "header": "Progress",
+                        "dock": "top",
+                        "content": {
+                            "type": "layout",
+                            "key": "tracker_items"
+                        },
+                        "header_content": {
+                            "type": "button_popup",
+                            "style": "settings",
+                            "popup_background": "#55212121",
+                            "layout": "settings_popup"
+                        }
+                    }
+                },
+                {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "tabbed",
+                            "tabs": [
+                                  {
+                                    "title": "Event Matches",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": [
+                                            "event_matches"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Single Player",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": [
+                                            "single_player"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Target Test",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": [
+                                            "target_test"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Character Trophies",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": [
+                                            "character_trophies"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Character Unlocks",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": [
+                                            "character_unlocks"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Trophy Collection",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": [
+                                            "trophy_collection"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Bonuses",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": [
+                                            "bonus_achievements"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "title": "Achievements",
+                                    "content": {
+                                        "type": "map",
+                                        "maps": [
+                                            "general_achievements"
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "tracker_broadcast": {
+        "type": "container",
+        "content": {
+            "type": "layout",
+            "key": "tracker_items"
+        }
+    },
+    "settings_popup": {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+            {
+                "type": "group",
+                "header": "Pinned Locations",
+                "content": {
+                    "type": "recentpins",
+                    "style": "wrap",
+                    "h_alignment": "center",
+                    "v_alignment": "center",
+                    "orientation": "vertical",
+                    "compact": true
+                }
+            }
+        ]
+    }
+}

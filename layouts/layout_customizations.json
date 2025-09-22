@@ -1,0 +1,293 @@
+{
+  "character_roster_layout": {
+    "type": "group",
+    "header": "Character Roster (1/25 Unlocked)",
+    "content": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "4,4,4,4",
+      "content": [
+        {
+          "type": "text",
+          "text": "All Characters Locked Until Found",
+          "font_size": 11,
+          "margin": "0,0,0,6"
+        },
+        {
+          "type": "itemgrid",
+          "item_margin": "2,2",
+          "item_size": 40,
+          "h_alignment": "center",
+          "rows": [
+            ["mario", "dk", "link", "samus", "yoshi"],
+            ["kirby", "fox", "pikachu", "ness", "falcon"],
+            ["bowser", "peach", "ice_climbers", "zelda", "jigglypuff"],
+            ["dr_mario", "pichu", "falco", "marth", "young_link"],
+            ["ganondorf", "luigi", "roy", "game_watch", "mewtwo"]
+          ]
+        },
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "h_alignment": "center",
+          "margin": "0,8,0,0",
+          "content": [
+            {
+              "type": "item",
+              "item": "characters_unlocked",
+              "width": 80,
+              "height": 24
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "trophy_progress_layout": {
+    "type": "group", 
+    "header": "Trophy Progress",
+    "content": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "4,4,4,4",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "horizontal", 
+          "h_alignment": "center",
+          "content": [
+            {
+              "type": "item",
+              "item": "total_trophies",
+              "width": 120,
+              "height": 36
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Character Trophies",
+          "font_size": 11,
+          "margin": "0,8,0,4"
+        },
+        {
+          "type": "itemgrid",
+          "item_margin": "3,3",
+          "item_size": 36,
+          "h_alignment": "center",
+          "rows": [
+            ["classic_trophies", "adventure_trophies", "allstar_trophies"]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lottery Trophies", 
+          "font_size": 11,
+          "margin": "0,8,0,4"
+        },
+        {
+          "type": "itemgrid",
+          "item_margin": "2,2",
+          "item_size": 28,
+          "h_alignment": "center",
+          "rows": [
+            ["base_lottery_trophies", "single_player_trophies"],
+            ["lottery_clear_trophies", "lottery_secret_trophies"],
+            ["lottery_vs_trophies", "lottery_250_trophies"]
+          ]
+        }
+      ]
+    }
+  },
+
+  "game_progress_layout": {
+    "type": "group",
+    "header": "Game Progress", 
+    "content": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "4,4,4,4",
+      "content": [
+        {
+          "type": "text",
+          "text": "Mode Completion",
+          "font_size": 11,
+          "margin": "0,0,0,4"
+        },
+        {
+          "type": "itemgrid",
+          "item_margin": "3,3",
+          "item_size": 36,
+          "h_alignment": "center", 
+          "rows": [
+            ["events_cleared", "targets_cleared"],
+            ["bonus_achievements", "vs_matches"]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Bonus Categories",
+          "font_size": 11,
+          "margin": "0,8,0,4"
+        },
+        {
+          "type": "itemgrid",
+          "item_margin": "2,2",
+          "item_size": 28,
+          "h_alignment": "center",
+          "rows": [
+            ["combat_bonuses", "movement_bonuses"],
+            ["ko_type_bonuses", "item_bonuses"],
+            ["mode_specific_bonuses"]
+          ]
+        }
+      ]
+    }
+  },
+
+  "compact_sidebar": {
+    "type": "dock",
+    "dock": "left",
+    "content": [
+      {
+        "type": "group",
+        "header": "Characters",
+        "content": {
+          "type": "array",
+          "orientation": "vertical",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "1,1",
+              "item_size": 32,
+              "rows": [
+                ["mario", "dk", "link", "samus"],
+                ["yoshi", "kirby", "fox", "pikachu"],
+                ["ness", "falcon", "bowser", "peach"],
+                ["ice_climbers", "zelda", "jigglypuff", "dr_mario"],
+                ["pichu", "falco", "marth", "young_link"],
+                ["ganondorf", "luigi", "roy", "game_watch"],
+                ["mewtwo"]
+              ]
+            },
+            {
+              "type": "item",
+              "item": "characters_unlocked",
+              "width": 80,
+              "height": 20,
+              "margin": "0,4,0,0"
+            }
+          ]
+        }
+      },
+      {
+        "type": "group",
+        "header": "Progress",
+        "content": {
+          "type": "array", 
+          "orientation": "vertical",
+          "content": [
+            {
+              "type": "item",
+              "item": "total_trophies",
+              "width": 100,
+              "height": 28,
+              "margin": "0,0,0,6"
+            },
+            {
+              "type": "itemgrid",
+              "item_margin": "2,2",
+              "item_size": 24,
+              "rows": [
+                ["classic_trophies", "adventure_trophies"],
+                ["allstar_trophies", "bonus_achievements"],
+                ["events_cleared", "targets_cleared"]
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+
+  "full_roster_display": {
+    "type": "group",
+    "header": "Super Smash Bros. Melee - Character Roster (1/25 Unlocked)",
+    "content": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "8,8,8,8",
+      "content": [
+        {
+          "type": "text",
+          "text": "All Characters Locked Until Found (Start with 1 Random)",
+          "font_size": 12,
+          "h_alignment": "center",
+          "margin": "0,0,0,8"
+        },
+        {
+          "type": "itemgrid",
+          "item_margin": "3,3",
+          "item_size": 48,
+          "h_alignment": "center",
+          "rows": [
+            ["mario", "dk", "link", "samus", "yoshi"],
+            ["kirby", "fox", "pikachu", "ness", "falcon"],
+            ["bowser", "peach", "ice_climbers", "zelda", "jigglypuff"],
+            ["dr_mario", "pichu", "falco", "marth", "young_link"],
+            ["ganondorf", "luigi", "roy", "game_watch", "mewtwo"]
+          ]
+        },
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "h_alignment": "center",
+          "margin": "0,16,0,0",
+          "content": [
+            {
+              "type": "item", 
+              "item": "characters_unlocked",
+              "width": 120,
+              "height": 32
+            },
+            {
+              "type": "item",
+              "item": "total_trophies", 
+              "width": 120,
+              "height": 32,
+              "margin": "16,0,0,0"
+            }
+          ]
+        }
+      ]
+    }
+  },
+
+  "minimal_progress": {
+    "type": "array",
+    "orientation": "horizontal", 
+    "content": [
+      {
+        "type": "item",
+        "item": "characters_unlocked",
+        "width": 60,
+        "height": 24
+      },
+      {
+        "type": "item",
+        "item": "total_trophies",
+        "width": 60, 
+        "height": 24,
+        "margin": "8,0,0,0"
+      },
+      {
+        "type": "item",
+        "item": "bonus_achievements",
+        "width": 60,
+        "height": 24,
+        "margin": "8,0,0,0"
+      }
+    ]
+  }
+}

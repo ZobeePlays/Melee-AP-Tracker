@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Mario",
+    "type": "toggle",
+    "img": "images/characters/mario.png",
+    "disabled_img": "images/characters/mario-bw.png",
+    "codes": "mario"
+  },
+  {
+    "name": "Bowser",
+    "type": "toggle",
+    "img": "images/characters/bowser.png",
+    "disabled_img": "images/characters/bowser-bw.png",
+    "codes": "bowser"
+  },
+  {
+    "name": "Peach",
+    "type": "toggle",
+    "img": "images/characters/peach.png",
+    "disabled_img": "images/characters/peach-bw.png",
+    "codes": "peach"
+  },
+  {
+    "name": "Yoshi",
+    "type": "toggle",
+    "img": "images/characters/yoshi.png",
+    "disabled_img": "images/characters/yoshi-bw.png",
+    "codes": "yoshi"
+  },
+  {
+    "name": "Donkey Kong",
+    "type": "toggle",
+    "img": "images/characters/dk.png",
+    "disabled_img": "images/characters/dk-bw.png",
+    "codes": "donkey_kong"
+  },
+  {
+    "name": "Captain Falcon",
+    "type": "toggle",
+    "img": "images/characters/captainfalcon.png",
+    "disabled_img": "images/characters/captainfalcon-bw.png",
+    "codes": "falcon"
+  },
+  {
+    "name": "Fox",
+    "type": "toggle",
+    "img": "images/characters/fox.png",
+    "disabled_img": "images/characters/fox-bw.png",
+    "codes": "fox"
+  },
+  {
+    "name": "Ness",
+    "type": "toggle",
+    "img": "images/characters/ness.png",
+    "disabled_img": "images/characters/ness-bw.png",
+    "codes": "ness"
+  },
+  {
+    "name": "Ice Climbers",
+    "type": "toggle",
+    "img": "images/characters/iceclimbers.png",
+    "disabled_img": "images/characters/iceclimbers-bw.png",
+    "codes": "ice_climbers"
+  },
+  {
+    "name": "Kirby",
+    "type": "toggle",
+    "img": "images/characters/kirby.png",
+    "disabled_img": "images/characters/kirby-bw.png",
+    "codes": "kirby"
+  },
+  {
+    "name": "Samus",
+    "type": "toggle",
+    "img": "images/characters/samus.png",
+    "disabled_img": "images/characters/samus-bw.png",
+    "codes": "samus"
+  },
+  {
+    "name": "Zelda",
+    "type": "toggle",
+    "img": "images/characters/zelda.png",
+    "disabled_img": "images/characters/zelda-bw.png",
+    "codes": "zelda"
+  },
+  {
+    "name": "Link",
+    "type": "toggle",
+    "img": "images/characters/link.png",
+    "disabled_img": "images/characters/link-bw.png",
+    "codes": "link"
+  },
+  {
+    "name": "Pikachu",
+    "type": "toggle",
+    "img": "images/characters/pikachu.png",
+    "disabled_img": "images/characters/pikachu-bw.png",
+    "codes": "pikachu"
+  },
+  {
+    "name": "Jigglypuff",
+    "type": "toggle",
+    "img": "images/characters/jigglypuff.png",
+    "disabled_img": "images/characters/jigglypuff-bw.png",
+    "codes": "jigglypuff"
+  },
+  {
+    "name": "Dr. Mario",
+    "type": "toggle",
+    "img": "images/characters/drmario.png",
+    "disabled_img": "images/characters/drmario-bw.png",
+    "codes": "dr_mario"
+  },
+  {
+    "name": "Pichu",
+    "type": "toggle",
+    "img": "images/characters/pichu.png",
+    "disabled_img": "images/characters/pichu-bw.png",
+    "codes": "pichu"
+  },
+  {
+    "name": "Falco",
+    "type": "toggle",
+    "img": "images/characters/falco.png",
+    "disabled_img": "images/characters/falco-bw.png",
+    "codes": "falco"
+  },
+  {
+    "name": "Marth",
+    "type": "toggle",
+    "img": "images/characters/marth.png",
+    "disabled_img": "images/characters/marth-bw.png",
+    "codes": "marth"
+  },
+  {
+    "name": "Young Link",
+    "type": "toggle",
+    "img": "images/characters/younglink.png",
+    "disabled_img": "images/characters/younglink-bw.png",
+    "codes": "young_link"
+  },
+  {
+    "name": "Ganondorf",
+    "type": "toggle",
+    "img": "images/characters/ganondorf.png",
+    "disabled_img": "images/characters/ganondorf-bw.png",
+    "codes": "ganondorf"
+  },
+  {
+    "name": "Luigi",
+    "type": "toggle",
+    "img": "images/characters/luigi.png",
+    "disabled_img": "images/characters/luigi-bw.png",
+    "codes": "luigi"
+  },
+  {
+    "name": "Roy",
+    "type": "toggle",
+    "img": "images/characters/roy.png",
+    "disabled_img": "images/characters/roy-bw.png",
+    "codes": "roy"
+  },
+  {
+    "name": "Mr. Game & Watch",
+    "type": "toggle",
+    "img": "images/characters/mrgameandwatch.png",
+    "disabled_img": "images/characters/mrgameandwatch-bw.png",
+    "codes": "game_watch"
+  },
+  {
+    "name": "Mewtwo",
+    "type": "toggle",
+    "img": "images/characters/mewtwo.png",
+    "disabled_img": "images/characters/mewtwo-bw.png",
+    "codes": "mewtwo"
+  },
+  {
+    "name": "Characters Unlocked",
+    "type": "consumable",
+    "img": "images/items/character_unlock.png",
+    "codes": "characters_unlocked",
+    "min_quantity": 1,
+    "max_quantity": 25,
+    "initial_quantity": 1
+  },
+  {
+    "name": "Total Trophies",
+    "type": "consumable",
+    "img": "images/items/trophy.png",
+    "codes": "total_trophies",
+    "min_quantity": 0,
+    "max_quantity": 293
+  },
+  {
+    "name": "Classic Trophies",
+    "type": "consumable",
+    "img": "images/items/classic_trophy.png",
+    "codes": "classic_trophies",
+    "max_quantity": 25
+  },
+  {
+    "name": "Adventure Trophies",
+    "type": "consumable",
+    "img": "images/items/adventure_trophy.png",
+    "codes": "adventure_trophies",
+    "max_quantity": 25
+  },
+  {
+    "name": "All-Star Trophies",
+    "type": "consumable",
+    "img": "images/items/allstar_trophy.png",
+    "codes": "allstar_trophies",
+    "max_quantity": 25
+  },
+  {
+    "name": "Events Cleared",
+    "type": "consumable",
+    "img": "images/items/event.png",
+    "codes": "events_cleared",
+    "max_quantity": 51
+  },
+  {
+    "name": "Targets Cleared",
+    "type": "consumable",
+    "img": "images/items/target.png",
+    "codes": "targets_cleared",
+    "max_quantity": 25
+  },
+  {
+    "name": "Bonus Achievements",
+    "type": "consumable",
+    "img": "images/items/bonus.png",
+    "codes": "bonus_achievements",
+    "max_quantity": 237
+  },
+  {
+    "name": "VS Matches",
+    "type": "consumable",
+    "img": "images/items/vs_match.png",
+    "codes": "vs_matches",
+    "max_quantity": 1000
+  }
+]

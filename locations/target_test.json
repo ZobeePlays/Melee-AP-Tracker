@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Target Test",
+    "short_name": "Target Test",
+    "chest_unopened_img": "images/chests/target_uncollected.png",
+    "chest_opened_img": "images/chests/target_collected.png",
+    "access_rules": ["Target Test"],
+    "children": [
+      {
+        "name": "Starting Characters",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/target_uncollected.png",
+        "chest_opened_img": "images/chests/target_collected.png",
+        "sections": [
+          {
+            "name": "Mario",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Mario"]
+          },
+          {
+            "name": "Donkey Kong",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Donkey Kong"]
+          },
+          {
+            "name": "Link",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Link"]
+          },
+          {
+            "name": "Samus",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Samus"]
+          },
+          {
+            "name": "Yoshi",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Yoshi"]
+          },
+          {
+            "name": "Kirby",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Kirby"]
+          },
+          {
+            "name": "Fox",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Fox"]
+          },
+          {
+            "name": "Pikachu",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Pikachu"]
+          },
+          {
+            "name": "Ness",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Ness"]
+          },
+          {
+            "name": "Captain Falcon",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Captain Falcon"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "target_test",
+            "x": 50,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Secret Characters",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/target_uncollected.png",
+        "chest_opened_img": "images/chests/target_collected.png",
+        "sections": [
+          {
+            "name": "Bowser",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Bowser"]
+          },
+          {
+            "name": "Peach",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Peach"]
+          },
+          {
+            "name": "Ice Climbers",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Ice Climbers"]
+          },
+          {
+            "name": "Zelda",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Zelda"]
+          },
+          {
+            "name": "Luigi",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Luigi"]
+          },
+          {
+            "name": "Jigglypuff",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Jigglypuff"]
+          },
+          {
+            "name": "Mewtwo",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Mewtwo"]
+          },
+          {
+            "name": "Mr. Game & Watch",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Mr. Game & Watch"]
+          },
+          {
+            "name": "Marth",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Marth"]
+          },
+          {
+            "name": "Roy",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Roy"]
+          },
+          {
+            "name": "Dr. Mario",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Dr. Mario"]
+          },
+          {
+            "name": "Ganondorf",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Ganondorf"]
+          },
+          {
+            "name": "Falco",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Falco"]
+          },
+          {
+            "name": "Young Link",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Young Link"]
+          },
+          {
+            "name": "Pichu",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["Pichu"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "target_test",
+            "x": 100,
+            "y": 50
+          }
+        ]
+      },
+      {
+        "name": "Target Test Challenges",
+        "access_rules": [],
+        "chest_unopened_img": "images/chests/target_uncollected.png",
+        "chest_opened_img": "images/chests/target_collected.png",
+        "sections": [
+          {
+            "name": "All Characters, Sub 12:30 Total Time",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["group_unique_characters_25"]
+          },
+          {
+            "name": "All Characters",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["group_unique_characters_25"]
+          },
+          {
+            "name": "All Characters, Sub 25 Minutes Total Time",
+            "chest_unopened_img": "images/chests/target_uncollected.png",
+            "chest_opened_img": "images/chests/target_collected.png",
+            "access_rules": ["group_unique_characters_25"]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "target_test",
+            "x": 150,
+            "y": 50
+          }
+        ]
+      }
+    ]
+  }
+]
