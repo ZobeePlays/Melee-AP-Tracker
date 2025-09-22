@@ -25,7 +25,7 @@ Feel free to report anything strange to me, ZobeePlays!
 
 ## Useful buttons to know about
 
-![AP_Bar.png](images/AP_Bar.png)<br>
+![AP_Bar.png]([images/AP_Bar.png](https://github.com/ZobeePlays/TTYD-Randomizer-AP-Tracker/blob/main/images/AP_Bar.png))<br>
 The above two icons can often be useful while using the pack.
 - The left icon is the *Open Pack Settings* button which lets you tweak various settings relating to how PopTracker interprets whether you can access certain checks or not. If you're using auto-tracking, most of these settings get filled in for you. If you're not, you'll want to match the settings you filled in your YAML when you generated your game.
 - The right icon is the *AP* button which allows you to connect to an in progress Archipelago session. You'll be prompted for the Archipelago Host/Port information, the slot name from your YAML, and the password if one was made.
