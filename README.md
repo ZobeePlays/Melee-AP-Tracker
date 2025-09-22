@@ -21,11 +21,3 @@ Feel free to report anything strange to me, ZobeePlays!
 3. Place the downloaded `.zip` file into the packs folder called in in step 1.
 4. Open your PopTracker application and click on the *Load Pack* button in the top left.
 5. Select the Melee Item Tracker and then choose what layout you'd like to use.
-
-
-## Useful buttons to know about
-
-![AP_Bar.png]([images/AP_Bar.png](https://github.com/ZobeePlays/TTYD-Randomizer-AP-Tracker/blob/main/images/AP_Bar.png))<br>
-The above two icons can often be useful while using the pack.
-- The left icon is the *Open Pack Settings* button which lets you tweak various settings relating to how PopTracker interprets whether you can access certain checks or not. If you're using auto-tracking, most of these settings get filled in for you. If you're not, you'll want to match the settings you filled in your YAML when you generated your game.
-- The right icon is the *AP* button which allows you to connect to an in progress Archipelago session. You'll be prompted for the Archipelago Host/Port information, the slot name from your YAML, and the password if one was made.
