@@ -1,5 +1,5 @@
 # SSBM-AP-Tracker
-A Poptracker pack that can track items and locations for the Paper Mario: The Thousand Year Door Randomizer by jamesbrq, supporting auto-tracking use with [Archipelago](https://archipelago.gg/).
+A Poptracker pack that can track items and locations for the Super Smash Brothers Melee Randomizer by Pinkswitch, supporting auto-tracking use with [Archipelago](https://archipelago.gg/).
 
 This pack supports multiple styles and layouts.
 
