@@ -1,13 +1,13 @@
 {
-    "name": "Super Smash Bros Melee Archipelago Tracker",
+    "name": "Super Smash Bros Melee Archipelago Tracker (WIP)",
     "game_name": "Super Smash Bros Melee",
-    "platform": "Nintendo 64",
+    "platform": "Nintendo Gamecube",
     "package_version": "1.0",
     "package_uid": "Super_Smash_Bros_Melee_Archipelago",
-    "author": "PixelShake92, ZobeePlays",
+    "author": "ZobeePlays",
     "variants": {
         "itemrando": {
-            "display_name": "Archipelago Randomizer",
+            "display_name": "Vertical Map Tracker",
             "flags": [
                 "ap"
             ]

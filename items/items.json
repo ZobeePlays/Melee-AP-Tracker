@@ -343,7 +343,7 @@
     {
         "name": "Multi-Man Melee",
         "type": "toggle",
-        "img": "images/items/Multi-Man Melee2.png",
+        "img": "images/items/Multi-Man Melee.png",
         "img_mods": "",
         "codes": "Multi-Man Melee"
     },
@@ -379,6 +379,76 @@
                 "codes": "Lottery5, Lottery"
             }
         ]
+    },
+    {
+        "name": "Birdo Trophy",
+        "type": "toggle",
+        "img": "images/items/Birdo.png",
+        "img_mods": "",
+        "codes": "Birdo"
+    },
+    {
+        "name": "Kraid Trophy",
+        "type": "toggle",
+        "img": "images/items/Kraid.png",
+        "img_mods": "",
+        "codes": "Kraid"
+    },
+    {
+        "name": "Sudowoodo Trophy",
+        "type": "toggle",
+        "img": "images/items/Sudowoodo.png",
+        "img_mods": "",
+        "codes": "Sudowoodo"
+    },
+    {
+        "name": "UFO Trophy",
+        "type": "toggle",
+        "img": "images/items/UFO.png",
+        "img_mods": "",
+        "codes": "UFO"
+    },
+    {
+        "name": "Falcon Flyer Trophy",
+        "type": "toggle",
+        "img": "images/items/Falcon Flyer.png",
+        "img_mods": "",
+        "codes": "Falcon Flyer"
+    },
+    {
+        "name": "Pikmin Save Data",
+        "type": "toggle",
+        "img": "images/Save Data.png",
+        "img_mods": "",
+        "codes": "PikminSave"
+    },
+    {
+        "name": "Lottery Pool Upgrade (Adventure/Classic Clear)",
+        "type": "toggle",
+         "img": "images/items/Lottery Adventure+Classic Clear.png",
+        "img_mods": "",
+        "codes": "Lottery Adventure+Classic"
+    },
+    {
+        "name": "Lottery Pool Upgrade (200 Vs. Matches)",
+        "type": "toggle",
+        "img": "images/items/Lottery 200 VS Matches.png",
+        "img_mods": "",
+        "codes": "Lottery200VS"
+    },
+    {
+        "name": "Lottery Pool Upgrade (Secret Characters)",
+        "type": "toggle",
+        "img": "images/items/Lottery Secret Characters.png",
+        "img_mods": "",
+        "codes": "LotterySecret"
+    },
+    {
+        "name": "Lottery Pool Upgrade (250 Trophies)",
+        "type": "toggle",
+        "img": "images/items/Lottery 250 Trophies.png",
+        "img_mods": "",
+        "codes": "Lottery250"
     },
     {
         "name": "Trophies",

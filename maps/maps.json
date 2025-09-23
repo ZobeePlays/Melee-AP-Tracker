@@ -7,7 +7,7 @@
     },
     {
         "name": "single_player",
-        "location_size": 25,
+        "location_size": 50,
         "location_border_thickness": 3,
         "img": "images/maps/single_player.png"
     },
