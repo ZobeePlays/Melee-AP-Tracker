@@ -1,243 +1,391 @@
 [
-  {
-    "name": "Mario",
-    "type": "toggle",
-    "img": "images/characters/mario.png",
-    "disabled_img": "images/characters/mario-bw.png",
-    "codes": "mario"
-  },
-  {
-    "name": "Bowser",
-    "type": "toggle",
-    "img": "images/characters/bowser.png",
-    "disabled_img": "images/characters/bowser-bw.png",
-    "codes": "bowser"
-  },
-  {
-    "name": "Peach",
-    "type": "toggle",
-    "img": "images/characters/peach.png",
-    "disabled_img": "images/characters/peach-bw.png",
-    "codes": "peach"
-  },
-  {
-    "name": "Yoshi",
-    "type": "toggle",
-    "img": "images/characters/yoshi.png",
-    "disabled_img": "images/characters/yoshi-bw.png",
-    "codes": "yoshi"
-  },
-  {
-    "name": "Donkey Kong",
-    "type": "toggle",
-    "img": "images/characters/dk.png",
-    "disabled_img": "images/characters/dk-bw.png",
-    "codes": "donkey_kong"
-  },
-  {
-    "name": "Captain Falcon",
-    "type": "toggle",
-    "img": "images/characters/captainfalcon.png",
-    "disabled_img": "images/characters/captainfalcon-bw.png",
-    "codes": "falcon"
-  },
-  {
-    "name": "Fox",
-    "type": "toggle",
-    "img": "images/characters/fox.png",
-    "disabled_img": "images/characters/fox-bw.png",
-    "codes": "fox"
-  },
-  {
-    "name": "Ness",
-    "type": "toggle",
-    "img": "images/characters/ness.png",
-    "disabled_img": "images/characters/ness-bw.png",
-    "codes": "ness"
-  },
-  {
-    "name": "Ice Climbers",
-    "type": "toggle",
-    "img": "images/characters/iceclimbers.png",
-    "disabled_img": "images/characters/iceclimbers-bw.png",
-    "codes": "ice_climbers"
-  },
-  {
-    "name": "Kirby",
-    "type": "toggle",
-    "img": "images/characters/kirby.png",
-    "disabled_img": "images/characters/kirby-bw.png",
-    "codes": "kirby"
-  },
-  {
-    "name": "Samus",
-    "type": "toggle",
-    "img": "images/characters/samus.png",
-    "disabled_img": "images/characters/samus-bw.png",
-    "codes": "samus"
-  },
-  {
-    "name": "Zelda",
-    "type": "toggle",
-    "img": "images/characters/zelda.png",
-    "disabled_img": "images/characters/zelda-bw.png",
-    "codes": "zelda"
-  },
-  {
-    "name": "Link",
-    "type": "toggle",
-    "img": "images/characters/link.png",
-    "disabled_img": "images/characters/link-bw.png",
-    "codes": "link"
-  },
-  {
-    "name": "Pikachu",
-    "type": "toggle",
-    "img": "images/characters/pikachu.png",
-    "disabled_img": "images/characters/pikachu-bw.png",
-    "codes": "pikachu"
-  },
-  {
-    "name": "Jigglypuff",
-    "type": "toggle",
-    "img": "images/characters/jigglypuff.png",
-    "disabled_img": "images/characters/jigglypuff-bw.png",
-    "codes": "jigglypuff"
-  },
-  {
-    "name": "Dr. Mario",
-    "type": "toggle",
-    "img": "images/characters/drmario.png",
-    "disabled_img": "images/characters/drmario-bw.png",
-    "codes": "dr_mario"
-  },
-  {
-    "name": "Pichu",
-    "type": "toggle",
-    "img": "images/characters/pichu.png",
-    "disabled_img": "images/characters/pichu-bw.png",
-    "codes": "pichu"
-  },
-  {
-    "name": "Falco",
-    "type": "toggle",
-    "img": "images/characters/falco.png",
-    "disabled_img": "images/characters/falco-bw.png",
-    "codes": "falco"
-  },
-  {
-    "name": "Marth",
-    "type": "toggle",
-    "img": "images/characters/marth.png",
-    "disabled_img": "images/characters/marth-bw.png",
-    "codes": "marth"
-  },
-  {
-    "name": "Young Link",
-    "type": "toggle",
-    "img": "images/characters/younglink.png",
-    "disabled_img": "images/characters/younglink-bw.png",
-    "codes": "young_link"
-  },
-  {
-    "name": "Ganondorf",
-    "type": "toggle",
-    "img": "images/characters/ganondorf.png",
-    "disabled_img": "images/characters/ganondorf-bw.png",
-    "codes": "ganondorf"
-  },
-  {
-    "name": "Luigi",
-    "type": "toggle",
-    "img": "images/characters/luigi.png",
-    "disabled_img": "images/characters/luigi-bw.png",
-    "codes": "luigi"
-  },
-  {
-    "name": "Roy",
-    "type": "toggle",
-    "img": "images/characters/roy.png",
-    "disabled_img": "images/characters/roy-bw.png",
-    "codes": "roy"
-  },
-  {
-    "name": "Mr. Game & Watch",
-    "type": "toggle",
-    "img": "images/characters/mrgameandwatch.png",
-    "disabled_img": "images/characters/mrgameandwatch-bw.png",
-    "codes": "game_watch"
-  },
-  {
-    "name": "Mewtwo",
-    "type": "toggle",
-    "img": "images/characters/mewtwo.png",
-    "disabled_img": "images/characters/mewtwo-bw.png",
-    "codes": "mewtwo"
-  },
-  {
-    "name": "Characters Unlocked",
-    "type": "consumable",
-    "img": "images/items/character_unlock.png",
-    "codes": "characters_unlocked",
-    "min_quantity": 1,
-    "max_quantity": 25,
-    "initial_quantity": 1
-  },
-  {
-    "name": "Total Trophies",
-    "type": "consumable",
-    "img": "images/items/trophy.png",
-    "codes": "total_trophies",
-    "min_quantity": 0,
-    "max_quantity": 293
-  },
-  {
-    "name": "Classic Trophies",
-    "type": "consumable",
-    "img": "images/items/classic_trophy.png",
-    "codes": "classic_trophies",
-    "max_quantity": 25
-  },
-  {
-    "name": "Adventure Trophies",
-    "type": "consumable",
-    "img": "images/items/adventure_trophy.png",
-    "codes": "adventure_trophies",
-    "max_quantity": 25
-  },
-  {
-    "name": "All-Star Trophies",
-    "type": "consumable",
-    "img": "images/items/allstar_trophy.png",
-    "codes": "allstar_trophies",
-    "max_quantity": 25
-  },
-  {
-    "name": "Events Cleared",
-    "type": "consumable",
-    "img": "images/items/event.png",
-    "codes": "events_cleared",
-    "max_quantity": 51
-  },
-  {
-    "name": "Targets Cleared",
-    "type": "consumable",
-    "img": "images/items/target.png",
-    "codes": "targets_cleared",
-    "max_quantity": 25
-  },
-  {
-    "name": "Bonus Achievements",
-    "type": "consumable",
-    "img": "images/items/bonus.png",
-    "codes": "bonus_achievements",
-    "max_quantity": 237
-  },
-  {
-    "name": "VS Matches",
-    "type": "consumable",
-    "img": "images/items/vs_match.png",
-    "codes": "vs_matches",
-    "max_quantity": 1000
-  }
+    {
+        "name": "",
+        "type": "toggle",
+        "img": "images/items/Empty.png",
+        "img_mods": "",
+        "codes": "Empty"
+    },
+    {
+        "name": "Dr. Mario",
+        "type": "toggle",
+        "img": "images/items/DrMario.png",
+        "img_mods": "",
+        "codes": "DrMario"
+    },
+    {
+        "name": "Mario",
+        "type": "toggle",
+        "img": "images/items/Mario.png",
+        "img_mods": "",
+        "codes": "Mario"
+    },
+    {
+        "name": "Luigi",
+        "type": "toggle",
+        "img": "images/items/Luigi.png",
+        "img_mods": "",
+        "codes": "Luigi"
+    },
+    {
+        "name": "Bowser",
+        "type": "toggle",
+        "img": "images/items/Bowser.png",
+        "img_mods": "",
+        "codes": "Bowser"
+    },
+    {
+        "name": "Peach",
+        "type": "toggle",
+        "img": "images/items/Peach.png",
+        "img_mods": "",
+        "codes": "Peach"
+    },
+    {
+        "name": "Yoshi",
+        "type": "toggle",
+        "img": "images/items/Yoshi.png",
+        "img_mods": "",
+        "codes": "Yoshi"
+    },
+    {
+        "name": "Donkey Kong",
+        "type": "toggle",
+        "img": "images/items/DK.png",
+        "img_mods": "",
+        "codes": "DK"
+    },
+    {
+        "name": "Captain Falcon",
+        "type": "toggle",
+        "img": "images/items/CFalcon.png",
+        "img_mods": "",
+        "codes": "CFalcon"
+    },
+    {
+        "name": "Ganondorf",
+        "type": "toggle",
+        "img": "images/items/Ganondorf.png",
+        "img_mods": "",
+        "codes": "Ganondorf"
+    },
+    {
+        "name": "Falco",
+        "type": "toggle",
+        "img": "images/items/Falco.png",
+        "img_mods": "",
+        "codes": "Falco"
+    },
+    {
+        "name": "Fox",
+        "type": "toggle",
+        "img": "images/items/Fox.png",
+        "img_mods": "",
+        "codes": "Fox"
+    },
+    {
+        "name": "Ness",
+        "type": "toggle",
+        "img": "images/items/Ness.png",
+        "img_mods": "",
+        "codes": "Ness"
+    },
+    {
+        "name": "Ice Climbers",
+        "type": "toggle",
+        "img": "images/items/Ice Climbers.png",
+        "img_mods": "",
+        "codes": "IceClimbers"
+    },
+    {
+        "name": "Kirby",
+        "type": "toggle",
+        "img": "images/items/Kirby.png",
+        "img_mods": "",
+        "codes": "Kirby"
+    },
+    {
+        "name": "Samus",
+        "type": "toggle",
+        "img": "images/items/Samus.png",
+        "img_mods": "",
+        "codes": "Samus"
+    },
+    {
+        "name": "Zelda",
+        "type": "toggle",
+        "img": "images/items/Zelda.png",
+        "img_mods": "",
+        "codes": "Zelda"
+    },
+    {
+        "name": "Link",
+        "type": "toggle",
+        "img": "images/items/Link.png",
+        "img_mods": "",
+        "codes": "Link"
+    },
+    {
+        "name": "Young Link",
+        "type": "toggle",
+        "img": "images/items/Young Link.png",
+        "img_mods": "",
+        "codes": "YoungLink"
+    },
+    {
+        "name": "Pichu",
+        "type": "toggle",
+        "img": "images/items/Pichu.png",
+        "img_mods": "",
+        "codes": "Pichu"
+    },
+    {
+        "name": "Pikachu",
+        "type": "toggle",
+        "img": "images/items/Pikachu.png",
+        "img_mods": "",
+        "codes": "Pikachu"
+    },
+    {
+        "name": "Jigglypuff",
+        "type": "toggle",
+        "img": "images/items/Jigglypuff.png",
+        "img_mods": "",
+        "codes": "Jigglypuff"
+    },
+    {
+        "name": "Mewtwo",
+        "type": "toggle",
+        "img": "images/items/Mewtwo.png",
+        "codes": "Mewtwo"
+    },
+    {
+        "name": "Mr. Game & Watch",
+        "type": "toggle",
+        "img": "images/items/MrGame&Watch.png",
+        "codes": "G&W"
+    },
+    {
+        "name": "Marth",
+        "type": "toggle",
+        "img": "images/items/Marth.png",
+        "codes": "Marth"
+    },
+    {
+        "name": "Roy",
+        "type": "toggle",
+        "img": "images/items/Roy.png",
+        "codes": "Roy"
+    },
+    {
+        "name": "Brinstar Depths",
+        "type": "toggle",
+        "img": "images/items/Brinstar Depths.png",
+        "img_mods": "",
+        "codes": "Brinstar Depths"
+    },
+    {
+        "name": "Fourside",
+        "type": "toggle",
+        "img": "images/items/Fourside.png",
+        "img_mods": "",
+        "codes": "Fourside"
+    },
+    {
+        "name": "Big Blue",
+        "type": "toggle",
+        "img": "images/items/Big Blue.png",
+        "img_mods": "",
+        "codes": "Big Blue"
+    },
+    {
+        "name": "Poké Floats",
+        "type": "toggle",
+        "img": "images/items/Poke Floats.png",
+        "img_mods": "",
+        "codes": "Poke Floats"
+    },
+    {
+        "name": "Mushroom Kingdom II",
+        "type": "toggle",
+        "img": "images/items/Kingdom II.png",
+        "img_mods": "",
+        "codes": "Mushroom Kingdom II"
+    },
+    {
+        "name": "Dream Land (Past)",
+        "type": "toggle",
+        "img": "images/items/Dream Land.png",
+        "img_mods": "",
+        "codes": "Dream Land"
+    },
+    {
+        "name": "Kongo Jungle (Past)",
+        "type": "toggle",
+        "img": "images/items/Kongo Jungle Past.png",
+        "img_mods": "",
+        "codes": "Kongo Jungle Past"
+    },
+    {
+        "name": "Yoshi's Island (Past)",
+        "type": "toggle",
+        "img": "images/items/Yoshi's Island Past.png",
+        "img_mods": "",
+        "codes": "Yoshi's Island Past"
+    },
+    {
+        "name": "Flat Zone",
+        "type": "toggle",
+        "img": "images/items/Flat Zone.png",
+        "codes": "Flat Zone"
+    },
+    {
+        "name": "Battlefield",
+        "type": "toggle",
+        "img": "images/items/Battlefield.png",
+        "codes": "Battlefield"
+    },
+    {
+        "name": "Final Destination",
+        "type": "toggle",
+        "img": "images/items/Final Destination.png",
+        "img_mods": "",
+        "codes": "Final Destination"
+    },
+    {
+        "name": "Classic Mode",
+        "type": "toggle",
+        "img": "images/items/Master Hand.png",
+        "img_mods": "",
+        "codes": "Classic Mode"
+    },
+    {
+        "name": "Adventure Mode",
+        "type": "toggle",
+        "img": "images/items/Giga Bowser.png",
+        "img_mods": "",
+        "codes": "Adventure Mode"
+    },
+    {
+        "name": "All-Star Mode",
+        "type": "toggle",
+        "img": "images/items/All-Star Mode.png",
+        "img_mods": "",
+        "codes": "All-Star Mode"
+    },
+    {
+        "name": "Target Test",
+        "type": "toggle",
+        "img": "images/items/Target.png",
+        "img_mods": "",
+        "codes": "Target Test"
+    },
+    {
+        "name": "Progressive Event Match",
+        "type": "progressive_toggle",
+        "initial_stage_idx": 0,
+        "initial_active_state": "true",
+        "stages": [
+            {
+                "name": "Initial Event Pool",
+                "img": "images/items/Event10.png",
+                "codes": "Event10, Events"
+            },
+            {
+                "name": "1 Event Pool Upgrade",
+                "img": "images/items/Event15.png",
+                "codes": "Event15, Events"
+            },
+            {
+                "name": "2 Event Pool Upgrades",
+                "img": "images/items/Event20.png",
+                "codes": "Event20, Events"
+            },
+            {
+                "name": "3 Event Pool Upgrades",
+                "img": "images/items/Event25.png",
+                "codes": "Event20, Events"
+            },
+            {
+                "name": "4 Event Pool Upgrades",
+                "img": "images/items/Event29.png",
+                "codes": "Event29, Events"
+            },
+            {
+                "name": "5 Event Pool Upgrades",
+                "img": "images/items/Event30.png",
+                "codes": "Event30, Events"
+            },
+            {
+                "name": "6 Event Pool Upgrades",
+                "img": "images/items/Event39.png",
+                "codes": "Event39, Events"
+            },
+            {
+                "name": "7 Event Pool Upgrades",
+                "img": "images/items/Event50.png",
+                "codes": "Event50, Events"
+            },
+            {
+                "name": "8 Event Pool Upgrades",
+                "img": "images/items/Event51.png",
+                "codes": "Event51, Events"
+            }
+        ]
+    },
+    {
+        "name": "Home-Run Contest",
+        "type": "toggle",
+        "img": "images/items/Sand Bag.png",
+        "img_mods": "",
+        "codes": "Home-Run Contest"
+    },
+    {
+        "name": "Multi-Man Melee",
+        "type": "toggle",
+        "img": "images/items/Multi-Man Melee2.png",
+        "img_mods": "",
+        "codes": "Multi-Man Melee"
+    },
+    {
+        "name": "Progressive Lottery Pool",
+        "type": "progressive_toggle",
+        "initial_stage_idx": 0,
+        "initial_active_state": "true",
+        "stages": [
+            {
+                "name": "Initial Lottery Pool",
+                "img": "images/items/Lotto1.png",
+                "codes": "Lottery1, Lottery"
+            },
+            {
+                "name": "1 Lottery Pool Upgrade",
+                "img": "images/items/Lotto2.png",
+                "codes": "Lottery2, Lottery"
+            },
+            {
+                "name": "2 Lottery Pool Upgrades",
+                "img": "images/items/Lotto3.png",
+                "codes": "Lottery3, Lottery"
+            },
+            {
+                "name": "3 Lottery Pool Upgrades",
+                "img": "images/items/Lotto4.png",
+                "codes": "Lottery4, Lottery"
+            },
+            {
+                "name": "4 Lottery Pool Upgrades",
+                "img": "images/items/Lotto5.png",
+                "codes": "Lottery5, Lottery"
+            }
+        ]
+    },
+    {
+        "name": "Trophies",
+        "type": "consumable",
+        "max_quantity": 293,
+        "img": "images/items/Trophies.png",
+        "img_mods": "",
+        "codes": "Trophies"
+    }
 ]

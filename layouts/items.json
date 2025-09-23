@@ -11,64 +11,18 @@
                     "orientation": "vertical",
                     "content": [
                         {
-                            "type": "text",
-                            "text": "All Characters Locked Until Found",
-                            "font_size": 9,
-                            "h_alignment": "center",
-                            "margin": "0,0,0,4"
-                        },
-                        {
                             "type": "itemgrid",
                             "item_margin": "1,1",
                             "item_size": 50,
                             "h_alignment": "center",
                             "rows": [
-                                ["mario", "donkey_kong", "link", "samus"],
-                                ["yoshi", "kirby", "fox", "pikachu"],
-                                ["ness", "falcon", "bowser", "peach"],
-                                ["ice_climbers", "zelda", "jigglypuff", "dr_mario"],
-                                ["pichu", "falco", "marth", "young_link"],
-                                ["ganondorf", "luigi", "roy", "game_watch"],
-                                ["mewtwo"]
-                            ]
-                        },
-                        {
-                            "type": "item",
-                            "item": "characters_unlocked",
-                            "width": 80,
-                            "height": 20,
-                            "margin": "0,4,0,8"
-                        }
-                    ]
-                }
-            },
-            {
-                "type": "group",
-                "header": "Trophy Progress",
-                "content": {
-                    "type": "array",
-                    "orientation": "vertical",
-                    "content": [
-                        {
-                            "type": "item",
-                            "item": "total_trophies",
-                            "width": 120,
-                            "height": 40,
-                            "margin": "0,0,0,6"
-                        },
-                        {
-                            "type": "text",
-                            "text": "Character Trophies",
-                            "font_size": 9,
-                            "margin": "0,0,0,2"
-                        },
-                        {
-                            "type": "itemgrid",
-                            "item_margin": "2,2",
-                            "item_size": 24,
-                            "h_alignment": "center",
-                            "rows": [
-                                ["classic_trophies", "adventure_trophies", "allstar_trophies"]
+                                ["DrMario", "Mario", "Luigi", "Bowser"],
+                                ["Peach", "Yoshi", "DK", "CFalcon"],
+                                ["Ganondorf", "Falco", "Fox", "Ness"],
+                                ["IceClimbers", "Kirby", "Samus", "Zelda"],
+                                ["Link", "YoungLink", "Pichu", "Pikachu"],
+                                ["Jigglypuff", "Mewtwo", "G&W", "Marth"],
+                                ["Roy"]
                             ]
                         }
                     ]
@@ -85,10 +39,50 @@
                             "type": "itemgrid",
                             "h_alignment": "center",
                             "item_margin": "2,2",
-                            "item_size": 32,
+                            "item_size": 50,
                             "rows": [
-                                ["events_cleared", "targets_cleared"],
-                                ["bonus_achievements", "vs_matches"]
+                                ["Classic Mode", "Adventure Mode", "All-Star Mode", "Target Test"],
+                                ["Events", "Home-Run Contest", "Multi-Man Melee", "Lottery"]
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Trophies",
+                "content": {
+                    "type": "array",
+                    "orientation": "vertical",
+                    "content": [
+                        {
+                            "type": "itemgrid",
+                            "item_margin": "2,2",
+                            "item_size": 50,
+                            "h_alignment": "center",
+                            "rows": [
+                                ["Trophies", "Lottery"]
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Stages",
+                "content": {
+                    "type": "array",
+                    "orientation": "vertical",
+                    "content": [
+                        {
+                            "type": "itemgrid",
+                            "h_alignment": "center",
+                            "item_margin": "2,2",
+                            "item_size": 50,
+                            "rows": [
+                                ["Brinstar Depths", "Fourside", "Big Blue", "Poke Floats"],
+                                ["Mushroom Kingdom II", "Dream Land", "Kongo Jungle Past", "Yoshi's Island Past"],
+                                ["Flat Zone", "Battlefield", "Final Destination"],
                             ]
                         }
                     ]

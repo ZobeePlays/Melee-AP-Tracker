@@ -2,435 +2,433 @@
   {
     "name": "Trophy Collection",
     "short_name": "Trophies",
-    "chest_unopened_img": "images/chests/character_uncollected.png",
-    "chest_opened_img": "images/chests/character_collected.png",
+    "chest_unopened_img": "images/items/closed.png",
+    "chest_opened_img": "images/items/open.png",
     "access_rules": [],
     "children": [
 	  {
 		"name": "Lottery Base",
 		"access_rules": [],
-		"chest_unopened_img": "images/chests/trophy_uncollected.png",
-		"chest_opened_img": "images/chests/trophy_collected.png",
 		"sections": [
 		  {
 			"name": "Andross (64)",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Baby Bowser",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Ball Kirby",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Balloon Fighter",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Barrel",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Barrel Cannon",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Bellossom",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Birdo",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Blastoise",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Bob-omb",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Bucket",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Bulbasaur",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Capsule",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Chikorita",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Clefairy",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Coin",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Crate",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Crobat",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Cyndaquil",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Daisy",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Donbe & Hikari",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Dr. Stewart",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Dr. Wright",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Ducks",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Egg",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Excitebike",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Fan",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Fire Flower",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Flipper",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Goldeen",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Heracross",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Heririn",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Home-Run Bat",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Igglybuff",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Jody Summer",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Kirby Hat 1",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Kirby Hat 2",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Kirby Hat 3",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Klap Trap",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Koopa Troopa",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Lakitu",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Metal Mario",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Metroid",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Monster",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Mr. Saturn",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Party Ball",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Poliwhirl",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Porygon2",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Racing Kart",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Raphael Raven",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Ray Gun",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Rick",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Ridley",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Ryota Hayami",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Scizor",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Slippy Toad",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Snorlax",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Squirtle",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Starman",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Starman (EarthBound)",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Star Rod",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Steelix",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Super Mushroom",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Super Scope",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Thwomp",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Toad",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Topi",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Totodile",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Waddle Dee",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Weezing",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Wobbuffet",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "ZERO-ONE",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Bubbles",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Chansey",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Dixie Kong",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Eevee",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Eggplant Man",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Fighter Kirby",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Jeff",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Maruo Maruhige",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Misty",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Professor Oak",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Ray Mk II",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Red Shell",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  }
 		],
 		"map_locations": [
@@ -444,143 +442,143 @@
 	  {
 		"name": "Any Main 1-P (No All-Star)",
 		"access_rules": ["classic_or_adventure_clear"],
-		"chest_unopened_img": "images/chests/trophy_uncollected.png",
-		"chest_opened_img": "images/chests/trophy_collected.png",
+
+
 		"sections": [
 		  {
 			"name": "Ayumi Tachibana",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Banzai Bill",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Beam Sword",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Charizard",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Cleffa",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Electrode",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Fire Kirby",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Four Giants",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Freezie",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Goron",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Green Shell",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Koopa Paratroopa",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Like Like",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Love Giant",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Marill",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Master Sword",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Octorok",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Parasol",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Paula",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Pit",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Plum",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "ReDead",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Screw Attack",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Staryu",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Vegetable",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Viruses",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Warp Star",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  }
 		],
 		"map_locations": [
@@ -594,123 +592,123 @@
 	  {
 		"name": "Lottery Adventure-Classic Clear",
 		"access_rules": ["classic_and_adventure_clear"],
-		"chest_unopened_img": "images/chests/trophy_uncollected.png",
-		"chest_opened_img": "images/chests/trophy_collected.png",
+
+
 		"sections": [
 		  {
 			"name": "Arwing",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Baby Mario",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Bayonette",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Chozo Statue",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Ditto",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Fountain of Dreams",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Gooey",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Great Fox",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Hammer",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "King Dedede",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Moon",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Pak E. Derm",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Pidgit",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Pikmin",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Poké Ball",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Pokémon Stadium",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Princess Peach's Castle",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Shy Guys",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Suicune",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Tingle",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Turtle",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Venusaur",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Whispy Woods",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  }
 		],
 		"map_locations": [
@@ -724,88 +722,88 @@
 	  {
 		"name": "Lottery 200 Vs. Matches",
 		"access_rules": ["vs_matches_5"],
-		"chest_unopened_img": "images/chests/trophy_uncollected.png",
-		"chest_opened_img": "images/chests/trophy_collected.png",
+
+
 		"sections": [
 		  {
 			"name": "Andross",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Annie",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Cloaking Device",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Kensuke Kimachi",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Lugia",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Megavitamins",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Meta-Knight",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Peppy Hare",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Poison Mushroom",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Polar Bear",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Poo",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Samurai Goroh",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Stanley",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Togepi",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Totakeke",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Vacuum Luigi",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  }
 		],
 		"map_locations": [
@@ -819,58 +817,58 @@
 	  {
 		"name": "Lottery Secret Characters",
 		"access_rules": ["secret_characters_unlocked"],
-		"chest_unopened_img": "images/chests/trophy_uncollected.png",
-		"chest_opened_img": "images/chests/trophy_collected.png",
+
+
 		"sections": [
 		  {
 			"name": "Alpha",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Articuno",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Boo",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Hate Giant",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Ho-Oh",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "King K. Rool",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Moltres",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Ocarina of Time",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Raikou",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Zapdos",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  }
 		],
 		"map_locations": [
@@ -884,28 +882,28 @@
 	  {
 		"name": "Lottery 250 Trophies",
 		"access_rules": ["trophies_250"],
-		"chest_unopened_img": "images/chests/trophy_uncollected.png",
-		"chest_opened_img": "images/chests/trophy_collected.png",
+
+
 		"sections": [
 		  {
 			"name": "GCN",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Koopa Clown Car",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Raccoon Mario",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  },
 		  {
 			"name": "Waluigi",
-			"chest_unopened_img": "images/chests/trophy_uncollected.png",
-			"chest_opened_img": "images/chests/trophy_collected.png"
+
+
 		  }
 		],
 		"map_locations": [
